@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<config> 
+
+
+
+
+      <DRIVER>com.android.chrome</DRIVER>
+
+<MOBILE>il.co.mintapp.buyme</MOBILE>
+
+<SPLASH>il.co.mintapp.buyme.activities.common.SplashScreen</SPLASH>
+
+
+<Report>C:\Users\moshe\IdeaProjects\2.html</Report>
+
+
+
+</config>
+
+
