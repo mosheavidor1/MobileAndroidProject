@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ngwebdriver-1.1.4 (2)">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/NgLibs/ngwebdriver-1.1.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

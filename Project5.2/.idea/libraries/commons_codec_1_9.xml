@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="commons-codec-1.9">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dependency/commons-codec-1.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dependency/bson-3.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dependency/bsh-2.0b4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
